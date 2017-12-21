@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
   <groupId>restaurant</groupId>
-  <artifactId>communication-core</artifactId>
+  <artifactId>service-core</artifactId>
   <versioning>
     <release>1.0</release>
     <versions>
       <version>1.0</version>
     </versions>
-    <lastUpdated>20171221132101</lastUpdated>
+    <lastUpdated>20171221132159</lastUpdated>
   </versioning>
 </metadata>
